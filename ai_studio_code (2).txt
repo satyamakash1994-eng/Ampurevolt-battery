@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I use an existing Lead-Acid charger for my Ampurevolt LiFePO4 battery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "..."
+      }
+    },
+    ...
+  ]
+}
